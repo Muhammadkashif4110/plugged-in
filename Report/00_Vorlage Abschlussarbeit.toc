@@ -1,0 +1,32 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\nonumberline Statutory declaration}{2}{section*.1}%
+\contentsline {section}{\nonumberline Note of thanks}{3}{section*.2}%
+\contentsline {section}{\nonumberline Summary / Abstract}{4}{section*.3}%
+\contentsline {chapter}{\numberline {1}Introduction}{8}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Project Background}{8}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Project formulation}{9}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Time managemnet}{9}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Risk management}{9}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Budget Calculation}{9}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Product specifications}{9}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Test setup}{9}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Basic theory}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Buck converter}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Boost converter}{10}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Buck/Boost converter}{10}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Desgin layout}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Block design layout}{11}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Safty management}{11}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Risk analysis}{11}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Calculations}{12}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Design calculations}{12}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Circuit calculations}{12}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Thermal calculations}{12}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Test}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Components tests}{13}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Circuit tests}{13}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Case tests}{13}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Discussion}{14}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Overcurrent}{14}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Overtemperature}{14}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Efficency}{14}{section.6.3}%
